@@ -20,10 +20,15 @@ It saves the output to a CSV file and can display the data in a `tableView`.
 ## 🗂️ Project Structure
 ```
 shelf-query/
+
 ├── python-fetcher/
+
 │ └── books.py # Python script
+
 ├── shelf-query.pro # Qt project file
+
 ├── mainwindow.h / .cpp # Main Qt source files
+
 └── README.md
 ```
 - When building Release, `shelf-query.exe` is generated.  
@@ -129,3 +134,4 @@ If you want, I can make a **version with diagrams/screenshots of the tableView +
 
 Do you want me to do that?
 ```
+
